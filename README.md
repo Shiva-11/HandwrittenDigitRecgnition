@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition
+# Handwritten Digit Recognition-Infosys Springboard Internship Project
 
 This project demonstrates a deep learning-based approach for recognizing handwritten digits using the MNIST dataset. The model is built using TensorFlow and Keras, featuring a convolutional neural network (CNN) for accurate classification. Additionally, the model is tested with the USPS dataset to evaluate its performance on unseen data.
 
