@@ -28,3 +28,6 @@ This project demonstrates a deep learning-based approach for recognizing handwri
 - **USPS Dataset**: An additional dataset of grayscale images for model evaluation on unseen data.
 
 ---
+
+## File Structure
+
